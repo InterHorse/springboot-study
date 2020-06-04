@@ -1,4 +1,4 @@
-package com.interhorse.springboot.myfirstspringboot;
+package cn.interhorse.springboot.myfirstspringboot;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
