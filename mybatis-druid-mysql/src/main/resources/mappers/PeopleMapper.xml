@@ -15,6 +15,19 @@
         select
         <include refid="Base_Column_List"/>
         from people
-        where id = #{id,jdbcType=INTEGER}
+        where id = #{id}
     </select>
+
+    <insert id="insert" parameterType="cn.interhorse.springboot.mybatisdruidmysql.entity.People">
+        insert into people(name, age) values(#{name}, #{age})
+    </insert>
+
+
+    <update id="updateById" parameterType="cn.interhorse.springboot.mybatisdruidmysql.entity.People">
+        update people set name = #{name}, age = #{age} where id = #{id}
+    </update>
+
+    <delete id="deleteById" parameterType="java.lang.Integer">
+        delete from people where id = #{id}
+    </delete>
 </mapper>

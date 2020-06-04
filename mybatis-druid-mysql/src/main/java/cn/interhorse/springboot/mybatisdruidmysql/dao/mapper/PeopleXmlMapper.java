@@ -11,4 +11,10 @@ import org.springframework.stereotype.Repository;
 @Repository
 public interface PeopleXmlMapper {
     People selectById(@Param("id") int id);
+
+    int insert(People people);
+
+    int updateById(People people);
+
+    int deleteById(@Param("id") Integer id);
 }

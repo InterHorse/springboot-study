@@ -9,6 +9,20 @@ public class People {
     private String name;
     private int age;
 
+    public People() {
+    }
+
+    public People(String name, int age) {
+        this.age = age;
+        this.name = name;
+    }
+
+    public People(int id, String name, int age) {
+        this.id = id;
+        this.age = age;
+        this.name = name;
+    }
+
     public int getId() {
         return id;
     }
