@@ -5,8 +5,17 @@ package cn.interhorse.springboot.mybatisdruidmysql.entity;
  * @date 2020/6/4
  */
 public class People {
+    /**
+     * 主键
+     */
     private int id;
+    /**
+     * 姓名
+     */
     private String name;
+    /**
+     * 年龄
+     */
     private int age;
 
     public People() {
