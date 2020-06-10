@@ -4,8 +4,8 @@ import cn.interhorse.springboot.mybatisdruidmysql.entity.People;
 import org.apache.ibatis.annotations.Param;
 
 /**
- * @author Yuzhe Ma
- * @date 2020/6/4
+ * @author InterHorse
+ * @date 2020-06-04
  */
 public interface PeopleXmlMapper {
     /**

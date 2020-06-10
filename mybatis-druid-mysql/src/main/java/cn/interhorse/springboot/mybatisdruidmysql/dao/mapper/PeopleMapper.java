@@ -6,8 +6,8 @@ import org.apache.ibatis.annotations.*;
 import java.util.List;
 
 /**
- * @author Yuzhe Ma
- * @date 2020/6/4
+ * @author InterHorse
+ * @date 2020-06-04
  */
 public interface PeopleMapper {
     /**
