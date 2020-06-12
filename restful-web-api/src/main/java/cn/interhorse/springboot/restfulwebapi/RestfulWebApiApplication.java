@@ -1,4 +1,4 @@
-package cn.interhorse.springboot.mybatisdruidmysql;
+package cn.interhorse.springboot.restfulwebapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
