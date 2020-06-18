@@ -1,0 +1,17 @@
+package cn.interhorse.springboot.restfulwebapi;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.scheduling.annotation.EnableAsync;
+import org.springframework.scheduling.annotation.EnableScheduling;
+
+@SpringBootApplication
+@EnableScheduling
+@EnableAsync
+public class SchedulerTaskApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(SchedulerTaskApplication.class, args);
+    }
+
+}
