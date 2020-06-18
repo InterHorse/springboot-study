@@ -5,6 +5,7 @@ SpringBoot 学习示例代码库。
 1. [my-first-springboot](https://github.com/InterHorse/springboot-study/tree/master/my-first-springboot)：我的第一个 SpringBoot 项目
 2. [mybatis-druid-mysql](https://github.com/InterHorse/springboot-study/tree/master/mybatis-druid-mysql)：MyBatis + Druid + MySQL 整合
 3. [restful-web-api](https://github.com/InterHorse/springboot-study/tree/master/restful-web-api)：RESTful Web API 实现
+4. [scheduler-task](https://github.com/InterHorse/springboot-study/tree/master/scheduler-task)：定时任务
 
 
 ## SpringBoot 系列博客
@@ -12,3 +13,4 @@ SpringBoot 学习示例代码库。
 2. [SpringBoot 开发实践(2)：SpringBoot 必备小知识](https://blog.csdn.net/Colton_Null/article/details/106592663)
 3. [SpringBoot 开发实践(3)：优雅使用 SpringBoot + Druid + MyBatis 访问数据库](https://blog.csdn.net/Colton_Null/article/details/106593057)
 4. [SpringBoot 开发实践(4)：使用 @Controller 实现 RESTful Web 接口](https://martin-ma.blog.csdn.net/article/details/106723812)
+5. [SpringBoot 开发实践(5)：定时任务 @Scheduled](https://martin-ma.blog.csdn.net/article/details/106847197)
