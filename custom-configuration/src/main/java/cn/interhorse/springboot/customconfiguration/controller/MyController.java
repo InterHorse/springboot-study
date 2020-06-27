@@ -28,6 +28,12 @@ public class MyController {
     @ResponseBody
     @RequestMapping(value = "/test1")
     private void test1() {
+        LOG.info("name:{}", name);
+    }
+
+    @ResponseBody
+    @RequestMapping(value = "/test2")
+    private void test2() {
         List<String> friends = myConfigProp.getFriends();
 
         LOG.info("name:{}, city:{}, age:{}",
@@ -35,11 +41,5 @@ public class MyController {
         for (String n : friends) {
             LOG.info("friend name:{}", n);
         }
-    }
-
-    @ResponseBody
-    @RequestMapping(value = "/test2")
-    private void test2() {
-        LOG.info("name:{}", name);
     }
 }
