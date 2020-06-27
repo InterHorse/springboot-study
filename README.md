@@ -12,6 +12,7 @@ SpringBoot 学习示例代码库。
 3. [restful-web-api](https://github.com/InterHorse/springboot-study/tree/master/restful-web-api)：RESTful Web API 实现
 4. [scheduler-task](https://github.com/InterHorse/springboot-study/tree/master/scheduler-task)：定时任务
 5. [async-execution](https://github.com/InterHorse/springboot-study/tree/master/async-execution)：异步方法执行
+6. [custom-configuration](https://github.com/InterHorse/springboot-study/tree/master/custom-configuration)：自定义配置读取
 
 
 ## SpringBoot 系列博客
@@ -21,3 +22,4 @@ SpringBoot 学习示例代码库。
 4. [SpringBoot 开发实践(4)：使用 @Controller 实现 RESTful Web 接口](https://martin-ma.blog.csdn.net/article/details/106723812)
 5. [SpringBoot 开发实践(5)：定时任务 @Scheduled](https://martin-ma.blog.csdn.net/article/details/106847197)
 5. [SpringBoot 开发实践(6)：@Async 异步执行方法及配置自定义线程池](https://martin-ma.blog.csdn.net/article/details/106913840)
+6. [SpringBoot 开发实践(7)：读取自定义配置](https://martin-ma.blog.csdn.net/article/details/106987377)
