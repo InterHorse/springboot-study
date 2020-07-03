@@ -13,6 +13,7 @@ SpringBoot 学习示例代码库。
 4. [scheduler-task](https://github.com/InterHorse/springboot-study/tree/master/scheduler-task)：定时任务
 5. [async-execution](https://github.com/InterHorse/springboot-study/tree/master/async-execution)：异步方法执行
 6. [custom-configuration](https://github.com/InterHorse/springboot-study/tree/master/custom-configuration)：自定义配置读取
+6. [lombok](https://github.com/InterHorse/springboot-study/tree/master/lombok)：Lombok 的使用
 
 
 ## SpringBoot 系列博客
