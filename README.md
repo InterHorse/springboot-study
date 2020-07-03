@@ -21,5 +21,5 @@ SpringBoot 学习示例代码库。
 3. [SpringBoot 开发实践(3)：优雅使用 SpringBoot + Druid + MyBatis 访问数据库](https://blog.csdn.net/Colton_Null/article/details/106593057)
 4. [SpringBoot 开发实践(4)：使用 @Controller 实现 RESTful Web 接口](https://martin-ma.blog.csdn.net/article/details/106723812)
 5. [SpringBoot 开发实践(5)：定时任务 @Scheduled](https://martin-ma.blog.csdn.net/article/details/106847197)
-5. [SpringBoot 开发实践(6)：@Async 异步执行方法及配置自定义线程池](https://martin-ma.blog.csdn.net/article/details/106913840)
-6. [SpringBoot 开发实践(7)：读取自定义配置](https://martin-ma.blog.csdn.net/article/details/106987377)
+6. [SpringBoot 开发实践(6)：@Async 异步执行方法及配置自定义线程池](https://martin-ma.blog.csdn.net/article/details/106913840)
+7. [SpringBoot 开发实践(7)：读取自定义配置](https://martin-ma.blog.csdn.net/article/details/106987377)
